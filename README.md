@@ -17,7 +17,6 @@ Este script homenaje puede ser perzonalizando declarando una serie de variables 
         ribbonPosition = ""; // posición de la cinta, los valores pueden ser: "", "right-bottom", "left-top", "left-bottom"
         ribbonFixed = true; // si el valor es true la cinta ocupará una posición fija
         setGrayscale = true; // si el valor es true (por defecto) la web se llevará a escala de grises
-        grayscaleValue = "grayscale(1)"; // el valor de escala de grices a utilizar
-
+        grayscaleValue = "grayscale(1)"; // el valor de escala de grises a utilizar
     </script>
     <script type="text/javascript" src="https://www.daxslab.com/daxslab/static/llamaret/main.js"></script>
